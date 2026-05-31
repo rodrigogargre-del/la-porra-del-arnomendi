@@ -51,14 +51,14 @@ Vercel te dará un enlace público para entrar en la web.
 Contraseña general:
 
 ```txt
-Arnomendi1234
+xxxxxxxxxxxxxxxx
 ```
 
 Administrador:
 
 ```txt
 Usuario: admin
-Contraseña: Contraseñasegura1234
+Contraseña: xxxxxxxxxxxxxxxxxxxxx
 ```
 
 ## 5. Aviso importante
